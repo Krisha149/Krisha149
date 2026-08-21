@@ -8,10 +8,10 @@
 
 ## 🚀 About Me  
 - 🎓 Pursuing **Bachelor’s in Computer Engineering** at **LJ University**  
-- 💻 Passionate about **Python, React.js, Java, and Flutter**  
-- ⚡ Skilled in **MERN stack, Django, Flutter, Data Structures & Algorithms** 
-- 🌱 Currently exploring **AI & Automation Projects**  
-- 🎯 Goal: To build **impactful software & AI tools**  
+- 💻 Passionate about **Flutter, Python, AI, and UI/UX**  
+- ⚡ Skilled in **python, Django, Flutter, Data Structures & Algorithms, SQL, AI, Design** 
+- 🌱 Currently exploring **AI & Automation Projects, Generative AI, Agentic AI, AI Models**  
+- 🎯 Goal: To build **impactful software (APP and Website) & AI tools**  
 - 🎵 Hobbies: Singing 🎤, Traveling 🌍, Solving Problems 🧩, and Playing Badminton 🏸  
 
 ---
@@ -19,13 +19,13 @@
 ## 🛠️ Tech Stack  
 
 **Languages & Frameworks:**  
-`Python` | `Java` | `JavaScript` | `React.js` | `Node.js` | `Express.js` | `Django` | `Flutter` | `HTML` | `CSS` 
+`Python` | `Flutter` | `JavaScript` | `SQL` | `AI` | `Django` | `HTML` | `CSS` | `React`(basic) | `Java`(basic)
 
 **Databases:**  
 `MySQL` | `MongoDB` | `Firebase`
 
 **Tools & Platforms:**  
-`Git & GitHub` | `VS Code` | `Postman` | `Figma`  
+`Git & GitHub` | `VS Code` | `Postman` | `Figma` | `Android studio`| `docker` 
 
 ---
 
@@ -40,7 +40,7 @@
 🔹 **Binary Search Tree** – Implementation & Visualization (Java)  
 🔹 **Memory Game** – Fun logic-based game (Java)  
 🔹 **Student Management System** – CRUD-based project (Java)  
-🔹 **Portfolio Website** – Personal showcase (React.js)  
+🔹 **Portfolio Website** – Personal Demo showcase (React.js)  
 
 👉 Check more in my repositories!  
 
